@@ -10,7 +10,7 @@ def flip_coin():
 
 def roll(type):
     if type == "d8":
-        roll = random.randint(0,3)
+        roll = random.randint(0,7)
         print(roll+1)
     elif type == "d4":
         roll = random.randint(0,3)
