@@ -1,0 +1,55 @@
+A Car
+HP: 18
+CC: 6
+CI: 6
+DR: 4
+Wits: 0
+MP: 5
+Drops 10 Coins, 25% chance random Attack Voucher, 3 exp
+Abilities
+Gasoline Shot: Deal MP-2 Damage, inflict Gasoline
+Engine Explosion: Deal MP fire damage
+Spin Out: Flip a coin. If heads, deal CCx2 damage.
+~
+Arctomancer
+HP: 16
+CC: 0
+CI: 5
+DR: 3
+Wits: 3
+MP: 7
+Weakness: Fire
+Resistance: Ice
+Drops: 10 Coins, 25% chance random Attack Voucher, 3 exp
+Abilities:
+[Passive] Snow Surge: Makes the weather Blizzard for 3 rounds.
+Arctic Tomb: Take 1 turn to charge, then deal MP Ice damage and inflict Freeze. Must wait a turn after dealing damage with it to use again.
+Magic Ray: Deal MP damage.
+~
+University Director
+HP: 17
+CC: 1
+CI: 4
+DR: 1
+Wits: 8
+MP: 0
+Weakness: Fire, Electricity
+Drops: 10 Coins, 25% chance random Attack Voucher, 3 exp
+Abilities:
+[Passive] Greed: When it dies, flip a coin. If heads, it does not drop its money.
+Knowledge Ray: Deal damage using Wits.
+Tryhard at Trivia Night: Flip a coin. If heads, deal damage with its Wits plus the player’s Wits. [Waiting Action]
+~
+Giant Snail
+HP: 25
+CC: 2
+CI: 1
+DR: 10
+Wits: 5
+MP: 5
+Drops: 7 Coins, Magic Ray (Attack Voucher), 3 exp
+Abilities:
+[Passive] Cracked Shell: Remove 2 DR each time it’s attacked.
+Toxic Spit: Flip a coin. If heads, inflict toxic.
+Magic Ray: Deal damage using MP stat.
+~

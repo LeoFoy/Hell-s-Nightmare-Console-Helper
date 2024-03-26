@@ -1,0 +1,47 @@
+Slime
+HP: 10
+CC: 4
+CI: 3
+DR: 1
+Wits: 0
+MP: 2
+Weakness: Electricity
+Drops: 3 Coins, Goo Fling (Attack Voucher), 2 exp
+Abilities: 
+Goo Fling: Deal MP damage. Flip a coin, if heads, inflict Slimed.
+~
+Wyrmling
+HP: 11
+CC: 4
+CI: 3
+DR: 2
+Wits: 2
+MP: 4
+Weakness: Ice
+Drops: 5 Coins, 2 exp
+Abilities:
+Flame of the Infantile Beast: Flip a coin. If heads, Deal MP damage and inflict Scorched. If tails, it hits itself with the attack.
+~
+The Tadpole of Truth
+HP: 3
+CC: 6
+CI: 7
+DR: 0
+MP: 0
+Wits: 0
+Drops: 5 Coins, 2 exp
+Abilities:
+[Passive] Very Small: If it is going to be hit with a non-elemental attack, roll a D4. It only gets hit by the attack if it rolls a 1.
+~
+Kangaroo
+HP: 13
+CC: 6
+CI: 5
+DR: 1
+Wits: 2
+MP: 1
+Weakness: Ice, Fire
+Drops: 5 Coins, 2 exp
+Abilities:
+Power Kick: Deal 4 damage. Flip a coin. If heads, this ignores DR.
+~

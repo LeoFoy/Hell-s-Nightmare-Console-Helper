@@ -1,0 +1,44 @@
+Lost Goblin Child
+HP: 6
+CC: 2
+CI: 2
+DR: 0
+MP: 0
+Wits: 1
+Drops: 1 Coin,1 exp
+Abilities
+Cry: Does nothing [Free Action]
+~
+A Sack of Potatoes
+HP: 11
+CC: 0
+CI: 0
+DR: 1
+MP: 0
+Wits: 0
+Drops: Potato (Item), 1 exp
+Abilities
+[Passive] Potato Drop: When Sack of Potatoes is hit, the player flips a coin. If tails, they are hit by a potato that came out of the sack and take 1 damage. It cannot do anything else.
+~
+Some Dude Who's Just Trying to Survive Out Here
+HP: 10
+CC: 4
+CI: 3
+DR: 0
+Wits: 2
+MP: 0
+Drops: 1 Coins, 1 exp
+Abilities
+Attempt to Flee: Enemy flips a coin. If heads, they successfully flee. They still drop 1 coins upon fleeing, though.
+~
+Baby Slime
+HP: 7
+CC: 2
+CI: 1
+DR: 0
+Wits: 0
+MP: 0
+Drops: 1 Coin, 1 exp
+Abilities:
+Slime Excretion: Inflict Slimed.
+~

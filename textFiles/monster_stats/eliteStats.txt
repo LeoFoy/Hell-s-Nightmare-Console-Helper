@@ -1,0 +1,66 @@
+Ancient Mage
+HP: 37
+CC: 7
+CI: 11
+DR: 7
+MP: 12
+Wits: 8
+Resistances: Fire, Ice, Electricity
+Drops: 30 Coins, Wrath of the Ancients (Attack Voucher), 5 exp
+Abilities:
+Elemental Tome: Deal MP damage, with Fire, Ice, or Electric damage, if one of those would strike the player’s weaknesses.
+Wrath of the Ancients: Deal MP-3 Damage. Inflict Scorched, Cold, or Paralyzed, chosen randomly.
+Mana Barrier: +1 DR, -1 MP [Free Action]
+Tome of Eons: -2 Wits, +2 MP. Cannot go below 0 wits. [Free Action, Waiting Action]
+Conjure Health: -1 MP, heal 8 HP [Waiting Action]
+Staff Strike: Deal CC damage. Flip a coin, if heads, inflict Armor Break.
+~
+Titan Whale
+HP: 48
+CC: 9
+CI: 4
+DR: 9
+Wits: 7
+MP: 12
+Resistances: Water, Fire, Sound
+Drops: 30 Coins, Water Spout (Attack Voucher), 5 exp
+Abilities:
+Brain Power: Flip a coin. If heads, Titan Whale attacks with its wits stat plus your wits stat. If tails, gain 1 wits.
+Whale Flop: Flip a coin. If heads, Titan Whale deals DR+CC damage, and inflicts Armor Break.
+Water Spout: Roll a D4. If a 4 is rolled, deal Water damage with current HP. [Waiting Action]
+Sea’s Blessing: Roll a D8 to recover HP. [waiting action]
+Tsunami: Deal water damage using MP stat.
+~
+Space Fish
+HP: 43
+CC: 12
+CI: 9
+DR: 7
+Wits: 11
+MP: 12
+Drops: 30 Coins, Galactic Boost (Attack Voucher), 5 exp
+Immunities: Sound, Water
+Abilities:
+Galactic Boost: Boost CC, DR, or MP by 2 at random. [Free Action, Waiting Action]
+Vacuum Blast: Attack using MP stat. Flip a coin. If heads, the player loses their turn. [Waiting Action]
+Ice Beam: Attack using MP stat. Inflicts Cold. 
+Fish Rush: Attack using CC. If its CI is higher than the player’s, add its CI to the damage.
+Arcane Scales: Flip a coin until you land on tails. Add 2 DR for each heads. 
+~
+Enormous Boulder
+HP: 55
+CC: 0
+CI: 2
+DR: 20
+Wits: 0
+MP: 0
+Resistances: Filth, Fire, Sound
+Weakness: Water
+Drops: 30 Coins, Debris Collection (Attack Voucher), 5 exp
+Abilities:
+[Passive] Chipped Away: Enormous Boulder loses DR proportionate to an attack’s power. However, this lost DR is instead transferred to its CC.
+Shatter: -4 HP, +4 CC
+Debris Collection: +2 DR, heal 2 HP [Waiting Action]
+[Passive] Debris Shot: When damaged, flip a coin. If heads, deal damage based on CC.
+[Passive] Immobile: It cannot do a standard attack using CC.
+~

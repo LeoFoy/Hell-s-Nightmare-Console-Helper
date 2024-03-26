@@ -1,0 +1,39 @@
+a text prompt for commands
+
+shop: 
+pull 1 random item from a shop exlusive items text file, 
+1 random item from an attack vouchers text file, 
+5 random items from the a regular items text file, 
+no duplicates. 
+format it with the 15/10 cent indicators and line break for each item so they arent all next to eachother. 
+have an option for the good vibes and bad vibes attributes, which give an extra and remove 1 item from the shop respectively.
+
+attack reroller: 1 random item from a great attack vouchers text file
+combat: roll for a difficulty, and then pull a random item from a list of enemies based on the difficulty rolled
+battle of wits: maybe just input a number for wits thats assigned to a difficulty, then pull from a list of the possible enemies
+items: 1 random item from the list of regular items
+attributes: 1 random item from the list of attributes
+elite attributes: 3 random items from the list of elite attributes, no duplicates
+With Challengers Contract
+1 (1/20): Trivial (1 exp)
+2-3 (2/20): Common (2 exp)
+4-9 (6/20): Potent (3 exp)
+10-17(8/20): Dangerous (4 exp)
+18-20 (3/20): Elite (5 exp)
+With Cowards Contract
+(5/20): Trivial (1 exp)
+(10/20): Common (2 exp)
+(4/20): Potent (3 exp)
+(1/20): Dangerous (4 exp)
+(0/20): Elite (5 exp) 
+
+
+done - 3rd voucher function that retrieves one voucher from all great and regular
+
+done - token function
+
+done - fix wits roll func, add d8 type
+
+done - shorten voucher commands (atk, gatk, aatk)
+
+

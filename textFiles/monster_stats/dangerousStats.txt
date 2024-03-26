@@ -1,0 +1,61 @@
+Large Lobster
+HP: 30
+CC: 9
+CI: 6
+DR: 5
+Wits: 3
+MP: 5
+Resistances: Fire, Water
+Weaknesses: Electric
+Drops: 16 Coins, 50% chance random Attack Voucher, 4 exp
+Abilities
+Claw Grip: Deal CC damage. Flip a coin. If heads, player loses a turn and loses 2 HP. [Waiting Action]
+Lobster Armor: Gain 3 DR for the next 2 times it would get hit. [Waiting Action]
+Splash Out: Deal CC-1 Water damage, next Fire attack is nullified entirely.
+~
+Parrot
+HP: 27
+CC: 7
+CI: 7
+DR: 2
+MP: 4
+Wits: 8
+Weakness: Ice
+Drops: 12 Coins, Mimic (Attack Voucher), 4 exp
+Abilities:
+Perfect Mimic: Perform every action the player performed in their most recent turn. [Waiting Action]
+Mimic: Use the attack most recently used against it.
+Squawk: Flip a coin. If heads, deal Wits damage and inflict Tinnitus.
+~
+Golden Corral
+HP: 34
+CC: 7
+CI: 0
+DR: 7
+Wits: 0
+MP: 6
+Resistances: Filth
+Weakness: Water, Divine
+Drops: 16 Coins, 50% chance random Attack Voucher, 4 exp
+Abilities:
+[Passive] Crumbling Foundation: When hit, lose 1 DR. Then, flip a coin, if heads, deal CC damage.
+[Passive] Inanimate: Cannot use a basic attack.
+Wafting Aroma: Deal MP Filth damage. Flip a coin, if heads, inflict Toxic. [Waiting Action]
+Dubious Food: Flip a coin. If heads, heal the player for 6 HP. If tails, deal MP Filth damage.
+Gas Leak: Flip a coin, if heads, inflict Gasoline.
+[Passive] Volatile Cookware: After each of its turns, roll a D10. If it rolls 10, deal MP fire damage.
+~
+Fog Wraith
+HP: 20
+CC: 0
+CI: 5
+DR: 1
+Wits: 1
+MP: 8
+Resistances: Water
+Drops: 16 Coins, 50% chance random Attack Voucher, 4 exp
+Abilities:
+[Passive] Looming Fog: The weather becomes Foggy for the rest of combat.
+Misty Wave: Gain 6 DR for a turn. On its following turn, deal MP+4 damage.
+Magic Ray: Deal MP damage.
+~

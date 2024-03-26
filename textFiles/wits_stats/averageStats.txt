@@ -1,0 +1,9 @@
+Shrek
+Wits: 5
+~
+Batman
+Wits: 5
+~
+Sonic
+Wits: 5
+~
