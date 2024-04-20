@@ -11,21 +11,27 @@ def flip_coin():
 def roll(type):
     if type == "d8":
         roll = random.randint(0,7)
+        print ("Rolled d8: ", end="")
         print(roll+1)
     elif type == "d4":
         roll = random.randint(0,3)
+        print ("Rolled d4: ", end="")
         print(roll+1)
     elif type == "d6":
         roll = random.randint(0,5)
+        print ("Rolled d6: ", end="")
         print(roll+1)
     elif type == "d10":
         roll = random.randint(0,9)
+        print ("Rolled d10: ", end="")
         print(roll+1)
     elif type == "d20":
         roll = random.randint(0,19)
+        print ("Rolled d20: ", end="")
         print(roll+1)
     elif type == "d100":
         roll = random.randint(0,99)
+        print ("Rolled d100: ", end="")
         print(roll+1)
 
 def find_shop_item():
@@ -162,7 +168,6 @@ def main():
             diff = input("Player Wits stat: ")
             combat.gen_wit_combat(int(diff))
             print("")
-            print("Rolled d8: ", end="")
             roll("d8")
             main()
         case "elite":
